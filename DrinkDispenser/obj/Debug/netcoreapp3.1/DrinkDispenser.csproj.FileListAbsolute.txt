@@ -1,0 +1,17 @@
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\bin\Debug\netcoreapp3.1\DrinkDispenser.exe
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\bin\Debug\netcoreapp3.1\DrinkDispenser.deps.json
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\bin\Debug\netcoreapp3.1\DrinkDispenser.runtimeconfig.json
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\bin\Debug\netcoreapp3.1\DrinkDispenser.runtimeconfig.dev.json
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\bin\Debug\netcoreapp3.1\DrinkDispenser.dll
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\bin\Debug\netcoreapp3.1\DrinkDispenser.pdb
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\obj\Debug\netcoreapp3.1\DrinkDispenser.csproj.AssemblyReference.cache
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\obj\Debug\netcoreapp3.1\DrinkDispenser.Form1.resources
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\obj\Debug\netcoreapp3.1\DrinkDispenser.Properties.Resources.resources
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\obj\Debug\netcoreapp3.1\DrinkDispenser.csproj.GenerateResource.cache
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\obj\Debug\netcoreapp3.1\DrinkDispenser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\obj\Debug\netcoreapp3.1\DrinkDispenser.AssemblyInfoInputs.cache
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\obj\Debug\netcoreapp3.1\DrinkDispenser.AssemblyInfo.cs
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\obj\Debug\netcoreapp3.1\DrinkDispenser.csproj.CoreCompileInputs.cache
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\obj\Debug\netcoreapp3.1\DrinkDispenser.dll
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\obj\Debug\netcoreapp3.1\DrinkDispenser.pdb
+C:\Users\Tharuka PC\source\repos\DrinkDispenser\DrinkDispenser\obj\Debug\netcoreapp3.1\DrinkDispenser.genruntimeconfig.cache
